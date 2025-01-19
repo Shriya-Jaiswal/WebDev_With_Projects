@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: #111;
+    overflow-x: hidden;
+}
+
+/* #box{
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+} */
+/* #box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+} */
+
+/* #box2{
+    height: 300px;
+    width: 300px;
+    background-color: seagreen;
+} */
+/* #box3{
+    height: 300px;
+    width: 300px;
+    background-color: royalblue;
+} */
+
+/* 
+#nav{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+} */
+
+/* #part2{
+    display: flex;
+    gap : 50px
+} */
+
+/* h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    white-space: nowrap;
+} */
+
+
+
+/* #page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* #page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(41, 138, 171);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap : 50px;
+} */
+
+/* h1{
+    font-size:60px ;
+    position: relative;
+    background-color: red;
+    padding: 10px;
+} */
+/* h2{
+    font-size:60px ;
+    position: relative;
+    background-color: yellow;
+    padding: 10px;
+} */
+/* 
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(4, 36, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+/* #box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+} */
+
+
+/* #partA{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    padding: 5vw 0;
+} */
+
+/* #partB{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(170, 113, 223);
+} */
+
+/* #partC{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(207, 170, 241);
+} */
+/* 
+#partB h1{
+    font-size: 30vw;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: black;
+} */
+
+
+#string{
+    height: 200px;
+    width: 100%;
+    /* background-color: red; */
+}

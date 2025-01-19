@@ -1,0 +1,1 @@
+object-fit : cover; ---> ye hmari image tag ko cover krne me help krta hai
